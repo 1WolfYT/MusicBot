@@ -1,28 +1,28 @@
-# RhinoBot: The music bot for Discord.
+# RhinoBot: El bot de música Discord.
 
-MusicBot is a Discord music bot written in [Python](https://www.python.org "Python homepage"). It plays requested songs and if the queue becomes empty it will play through a list of existing songs.
+MusicBot Es un bot de música Discord escrito en [Python](https://www.python.org "Python homepage"). Reproduce las canciones solicitadas y si la cola se vacía, se reproducirá a través de una lista de canciones existentes.
 
-### How do I set it up?
+### ¿Cómo lo configuro?
 
-[CLICK HERE](https://github.com/SexualRhinoceros/MusicBot/wiki) to find the guide that suites your operating system.
+[HAGA CLIC AQUÍ](https://github.com/SexualRhinoceros/MusicBot/wiki) Para encontrar la guía que se adapte a su sistema operativo.
 
-### Commands
+### Comandos
 
-Commands are listed [here](https://github.com/SexualRhinoceros/MusicBot/wiki/Commands "Commands list").
+Los comandos se enumeran [aquí](https://github.com/SexualRhinoceros/MusicBot/wiki/Commands "Commands list").
 
-### Configuration
+### Configuración
 
-The main configuration file is `config/options.ini`, but is not included.  Simply make a copy of `example_options.ini` and rename to `options.ini`.  See `example_options.ini` for more information on how to configure it.
+El archivo de configuración principal es `config/options.ini`, Pero no está incluido. Simplemente haga una copia de `example_options.ini` Y renombrar a `options.ini`.  Ver `example_options.ini` Para obtener más información sobre cómo configurarlo.
 
-[CLICK HERE](https://github.com/SexualRhinoceros/MusicBot/wiki/Configuration) for more details.
+[HAGA CLIC AQUÍ](https://github.com/SexualRhinoceros/MusicBot/wiki/Configuration) para más detalles.
 
-### Great, now how do I use it?
-Download the bot, set the dependencies up, then run `runbot.bat`! (or `run.sh` on mac/linux)  Read the tutorial if you don't know what to do.
+### Genial, ahora cómo lo uso?
+Descargue el bot, configure las dependencias y luego ejecute `runbot.bat`! (or `run.sh` on mac/linux)  Lea el tutorial si no sabe qué hacer.
 
-If you have any errors, read the FAQ. If that didn't help, you can ask for assistance on the discord help server. Is is recommended to take screenshots so the developers can see errors.
+Si tiene algún error, lea las preguntas frecuentes. Si eso no ayuda, puede pedir ayuda en el servidor de ayuda de discordia. Se recomienda tomar capturas de pantalla para que los desarrolladores puedan ver errores.
 
-[Rhino Help Server](http://discord.me/rhinohelp "Discord link")
+[Rhino Servidor de ayuda](http://discord.me/rhinohelp "Discord link")
 
-### FAQ
+### Preguntas más frecuentes
 
-Some frequently asked questions are listed on the wiki [here](https://github.com/SexualRhinoceros/MusicBot/wiki/FAQ "Wiki").
+Algunas preguntas frecuentes se enumeran en el wiki [aquí](https://github.com/SexualRhinoceros/MusicBot/wiki/FAQ "Wiki").
